@@ -1,1 +1,3 @@
 all: hello
+check:
+distcheck:
